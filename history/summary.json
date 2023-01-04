@@ -95,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cosmetics.silentclient.net.ico",
     "slug": "cosmetics-cdn",
     "status": "up",
-    "uptime": "1.97%",
-    "uptimeDay": "1.97%",
-    "uptimeWeek": "1.97%",
-    "uptimeMonth": "1.97%",
-    "uptimeYear": "1.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 501,
     "timeDay": 501,
     "timeWeek": 501,
     "timeMonth": 501,
     "timeYear": 501,
-    "dailyMinutesDown": {
-      "2023-01-04": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
