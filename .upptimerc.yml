@@ -13,6 +13,10 @@ sites:
     url: https://api.silentclient.net
     expectedStatusCodes:
       - 404
+  - name: Microsoft Auth API
+    url: https://auth.silentclient.net
+    expectedStatusCodes:
+      - 404
   - name: Players API
     url: https://players.silentclient.net
   - name: Cosmetics CDN
