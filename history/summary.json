@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 139,
+    "timeDay": 138,
     "timeWeek": 131,
     "timeMonth": 133,
     "timeYear": 133,
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.silentclient.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "96.90%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.58%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 357,
     "timeDay": 367,
     "timeWeek": 361,
     "timeMonth": 357,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2023-01-12": 45
+      "2023-01-12": 51
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.silentclient.net.ico",
     "slug": "microsoft-auth-api",
     "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "96.90%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.58%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 353,
     "timeDay": 363,
     "timeWeek": 357,
     "timeMonth": 353,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2023-01-12": 45
+      "2023-01-12": 51
     }
   },
   {
@@ -124,7 +124,7 @@
     "uptimeYear": "100.00%",
     "time": 591,
     "timeDay": 594,
-    "timeWeek": 585,
+    "timeWeek": 586,
     "timeMonth": 591,
     "timeYear": 591,
     "dailyMinutesDown": {}
