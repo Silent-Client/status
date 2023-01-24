@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 125,
+    "timeDay": 124,
     "timeWeek": 137,
     "timeMonth": 133,
     "timeYear": 133,
@@ -65,8 +65,8 @@
     "uptimeMonth": "98.20%",
     "uptimeYear": "98.20%",
     "time": 340,
-    "timeDay": 330,
-    "timeWeek": 327,
+    "timeDay": 331,
+    "timeWeek": 326,
     "timeMonth": 340,
     "timeYear": 340,
     "dailyMinutesDown": {
@@ -86,8 +86,8 @@
     "uptimeMonth": "98.20%",
     "uptimeYear": "98.20%",
     "time": 343,
-    "timeDay": 335,
-    "timeWeek": 333,
+    "timeDay": 336,
+    "timeWeek": 332,
     "timeMonth": 343,
     "timeYear": 343,
     "dailyMinutesDown": {
@@ -119,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cosmetics.silentclient.net.ico",
     "slug": "cosmetics-cdn",
     "status": "up",
-    "uptime": "97.42%",
-    "uptimeDay": "47.27%",
-    "uptimeWeek": "92.47%",
-    "uptimeMonth": "97.42%",
-    "uptimeYear": "97.42%",
-    "time": 658,
-    "timeDay": 1826,
-    "timeWeek": 779,
-    "timeMonth": 658,
-    "timeYear": 658,
+    "uptime": "97.35%",
+    "uptimeDay": "45.88%",
+    "uptimeWeek": "92.27%",
+    "uptimeMonth": "97.35%",
+    "uptimeYear": "97.35%",
+    "time": 657,
+    "timeDay": 1828,
+    "timeWeek": 778,
+    "timeMonth": 657,
+    "timeYear": 657,
     "dailyMinutesDown": {
-      "2023-01-24": 759
+      "2023-01-24": 779
     }
   }
 ]
