@@ -19,8 +19,8 @@ sites:
       - 404
   - name: Players API
     url: https://players.silentclient.net
-  - name: Cosmetics CDN
-    url: https://cosmetics.silentclient.net
+  - name: CDN
+    url: https://cdn.silentclient.net
     expectedStatusCodes:
       - 403
 
